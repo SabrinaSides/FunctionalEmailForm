@@ -1,0 +1,22 @@
+
+form label {
+  display: block;
+  font-size: 18px;
+  margin-top: 10px;
+  color: black;
+  font-family: arial;
+}
+
+form input[type=text] {
+  color: #000;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+form textarea {
+  height: 4.75rem;
+  width: 100%;
+  color: #000;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
